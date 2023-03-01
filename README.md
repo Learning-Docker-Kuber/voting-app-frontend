@@ -1,3 +1,11 @@
+# 설치방법
+1. nodejs 설치 https://nodejs.org/ko/download/
+2. git clone
+3. npm install
+4. npm start
+
+
+# Original React Guide
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
